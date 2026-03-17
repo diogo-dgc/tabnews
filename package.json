@@ -1,0 +1,24 @@
+{
+  "name": "tabnews",
+  "version": "1.0.0",
+  "description": "Experimentacoes do curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [
+    "aula",
+    "filepe",
+    "deschamps",
+    "webdev",
+    "curso",
+    "aprendizado"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
