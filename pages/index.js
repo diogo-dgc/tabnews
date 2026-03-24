@@ -10,8 +10,4 @@ function teste2() {
   console.log("teste2");
 }
 
-const teste = () => {
-  console.log("teste3");
-};
-
 export default Home;
